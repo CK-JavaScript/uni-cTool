@@ -1,0 +1,44 @@
+{
+	"id": "cTool",
+	"name": "cTool",
+	"displayName": "cTool",
+	"version": "1.0.0",
+	"description": "u",
+	"keywords": [
+		"uni-app",
+		"cTool",
+		"tool"
+	],
+	"repository": "https://github.com/umicro/uView2.0",
+	"engines": {
+		"HBuilderX": "^3.1.0"
+	},
+	"dcloudext": {
+		"category": [
+			"前端组件",
+			"通用组件"
+		],
+		"sale": {
+			"regular": {
+				"price": "0.00"
+			},
+			"sourcecode": {
+				"price": "0.00"
+			}
+		},
+		"contact": {
+			"qq": "1416956117"
+		},
+		"declaration": {
+			"ads": "无",
+			"data": "无",
+			"permissions": "无"
+		},
+		"npmurl": "https://www.npmjs.com/package/uview-ui"
+	},
+	"uni_modules": {
+		"dependencies": [],
+		"encrypt": [],
+		"platforms": {}
+	}
+}
